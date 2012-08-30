@@ -1961,12 +1961,12 @@ h5.toggle.active + .toggle-content{
 	border:1px solid #d7d6d6;
 }
 .error{
-	background:#ffe9e9 url(../images/error-icon.png) no-repeat 25px 8px;
+	background:#ffe9e9 url(../images/error-icon.png) no-repeat 100% 1px;
 	border:1px solid #e7a9a9;
 	color:#d04544;
 }
 .success{
-	background:#e9f3d2 url(../images/success-icon.png) no-repeat 25px 8px;
+	background:#e9f3d2 url(../images/success-icon.png) no-repeat 100% 2px;
 	border:1px solid #acd556;
 	color:#92b750;
 }
